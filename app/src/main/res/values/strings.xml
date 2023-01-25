@@ -1,0 +1,21 @@
+<resources>
+    <!-- Application Level -->
+    <string name="app_name">NewsApp</string>
+
+    <!-- User Displayed -->
+    <!-- text -->
+    <string name="text_news_headlines">Top Headlines</string>
+    <string name="text_saved_news">Saved</string>
+
+    <!--  messages -->
+    <string name="message_saved">Saved locally !</string>
+    <string name="message_deleted">Deleted from saved !</string>
+    <string name="message_reverted">Added back to saved !</string>
+
+    <!-- action -->
+    <string name="action_undo">Undo</string>
+
+    <!-- content description -->
+    <string name="image_content_description">Image of News</string>
+    <string name="fab_content_description">Floating button</string>
+</resources>

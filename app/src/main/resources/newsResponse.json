@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Holly Ellyatt, Amanda Macias",
+      "title": "Germany promises a decision on tanks; Russian official warns Ukraine allies risk own destruction - CNBC",
+      "description": "Top German officials have signalled a change in position in Berlin regarding tanks for Ukraine.",
+      "url": "https://www.cnbc.com/2023/01/23/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107182210-1674459201682-gettyimages-1458246805-siversk154023_a1b115fc-cea2-4beb-887e-4604728ac722.jpeg?v=1674460428&w=1920&h=1080",
+      "publishedAt": "2023-01-24T08:16:00Z",
+      "content": "General Valery Gerasimov, Russia's chief of the general staff and newly appointed commander in Ukraine, has likely started his tour with a drive to improve deployed troops' day-to-day discipline, acc… [+1179 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Police seek motive to Los Angeles-area mass shooting as 11th victim dies - Reuters",
+      "description": "Investigators collected 42 bullet casings from the scene of one of California's bloodiest mass shootings as they sought clues on Monday to what drove an elderly gunman to open fire in a dance hall he had frequented, killing 11 people, before taking his own li…",
+      "url": "https://www.reuters.com/world/us/mass-shooters-motive-elusive-monterey-park-mourns-10-dead-2023-01-23/",
+      "urlToImage": "https://www.reuters.com/resizer/o5Qk4v_ApWPPtCRDtQyirQMnStY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IF73IBIGLJNVHNQQGGGGH6Y3UA.jpg",
+      "publishedAt": "2023-01-24T07:12:00Z",
+      "content": "MONTEREY PARK, Calif., Jan 23 (Reuters) - Investigators collected 42 bullet casings from the scene of one of California's bloodiest mass shootings as they sought clues on Monday to what drove an elde… [+5676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "2023 NBA trade deadline: Five teams, including Clippers and Warriors, facing most pressure to make moves - CBS Sports",
+      "description": "A lot of eyes will be on these five teams leading up to Feb. 9",
+      "url": "https://www.cbssports.com/nba/news/2023-nba-trade-deadline-five-teams-including-clippers-and-warriors-facing-most-pressure-to-make-moves/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/23/78beb4eb-504d-498e-b69f-cdc1fa406d9c/thumbnail/1200x675/ea7e08c6a3916b7a0123d7626d2ba610/kawhi-pg-getty.png",
+      "publishedAt": "2023-01-24T06:57:00Z",
+      "content": "NBA fans love the smell of trade season in the morning, and the odoriferous emanations are more pungent in some cities than others. While teams like the Boston Celtics, Denver Nuggets and Memphis Gri… [+11680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "\"Was Told Saudi Crown Prince Was On Board\": Elon Musk In Tesla Tweet Trial - NDTV",
+      "description": "Elon Musk on Monday told jurors that his 2018 tweet about taking Tesla private at $420 a share was no joke and that Saudi Arabia's sovereign wealth fund was serious about helping him do it.",
+      "url": "https://www.ndtv.com/world-news/buying-tesla-at-420-a-share-was-no-joke-elon-musk-over-2018-tweet-trial-3718546",
+      "urlToImage": "https://c.ndtvimg.com/2022-12/i5bcj6mo_elon-musk-650_625x300_13_December_22.jpg",
+      "publishedAt": "2023-01-24T05:06:00Z",
+      "content": "Elon Musk's testimony is set to conclude on Tuesday.\r\nSan Francisco: Elon Musk on Monday told jurors that his 2018 tweet about taking Tesla private at $420 a share was no joke and that Saudi Arabia's… [+3384 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Joe Sutton, Theresa Waldrop",
+      "title": "At least 7 dead, 1 injured and suspect in custody after shootings in Half Moon Bay, California, official says - CNN",
+      "description": "At least seven people were killed and one person critically injured in shootings in two separate locations in a small coastal community in central California, becoming the state's second mass shooting in three days, officials said.",
+      "url": "https://www.cnn.com/2023/01/23/us/half-moon-bay-california-shooting-incident/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230123193602-01-half-moon-bay-shooting-012323.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-24T04:24:00Z",
+      "content": "At least seven people were killed and one person critically injured in shootings in two separate locations in a small coastal community in central California, becoming the states second mass shooting… [+2030 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Climate change: Bill Gates backs Australian start-up targeting cow burps - BBC",
+      "description": "Livestock - such as cows - produce methane when their stomachs are digesting hard fibres.",
+      "url": "https://www.bbc.com/news/business-64382400",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1B07/production/_128391960_gettyimages-1354776497.jpg",
+      "publishedAt": "2023-01-24T04:16:45Z",
+      "content": "Billionaire Bill Gates has invested in an Australian climate technology start-up that plans to reduce the methane emissions of cow burps.\r\nThe Microsoft co-founder has been outspoken about the enviro… [+2063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The A.V. Club"
+      },
+      "author": "Lauren Chval",
+      "title": "The Bachelor recap: Season 27, Episode 1 - The A.V. Club",
+      "description": "Zach Shallcross is just out here looking for his best friend",
+      "url": "https://www.avclub.com/the-bachelor-review-season-27-episode-1-premiere-1850016106",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ef0f75e78412b9412506766eff8c6df6.jpg",
+      "publishedAt": "2023-01-24T03:00:00Z",
+      "content": "The premiere of a new season of The Bachelortwo hours of being waterboarded by workout montages and wannabe influencers professing their love for a man they havent even met yetis always a little bit … [+7941 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Andi Babineau, Kara Devlin",
+      "title": "Des Moines shooting leaves 2 students dead, founder of education program in serious condition, police say - CNN",
+      "description": "A shooting at an educational program for at-risk youth in Des Moines, Iowa, left two students dead and the program's founder seriously injured, authorities said",
+      "url": "https://www.cnn.com/2023/01/23/us/des-moines-shooting/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230123140816-05-des-moines-iowa-shooting-0123.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-24T02:44:00Z",
+      "content": "A shooting at an educational program for at-risk youth in Des Moines, Iowa, left two students dead and the programs founder seriously injured, authorities said\r\nAt 12:53 p.m. Monday, Police and fire … [+2730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Kylie Jenner Reveals Correct Pronunciation for Son's Name - Entertainment Tonight",
+      "description": "Love is in the 'Aire'! Kylie Jenner shares the name of her and Travis Scott's baby boy, followed by addressing fan speculation of how to pronounce the little...",
+      "url": "https://www.youtube.com/watch?v=RcDcVPLa65g",
+      "urlToImage": "https://i.ytimg.com/vi/RcDcVPLa65g/maxresdefault.jpg",
+      "publishedAt": "2023-01-24T02:30:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Aaron Kliegman",
+      "title": "California Democrats consider wealth tax — including for people who moved out of state - Fox News",
+      "description": "California Democrats introduced legislation that would impose a new tax on wealthy residents — even if they've already moved out of the state.",
+      "url": "https://www.foxnews.com/politics/california-democrats-consider-wealth-tax-people-moved-out-state",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/newsom-thuymb-.jpg",
+      "publishedAt": "2023-01-24T01:09:00Z",
+      "content": "California lawmakers are pushing legislation that would impose a new tax on the state's wealthiest residents even if they've already moved to another part of the country.\r\nAssemblyman Alex Lee, a pro… [+7414 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Earth’s inner core may have ‘paused’ its rotation and reversed, new study suggests - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL25leHN0YXJfbWVkaWFfd2lyZS8zODI3MjQ0LWVhcnRocy1pbm5lci1jb3JlLW1heS1oYXZlLXBhdXNlZC1pdHMtcm90YXRpb24tYW5kLXJldmVyc2VkLW5ldy1zdHVkeS1zdWdnZXN0cy_SAYsBaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9uZXhzdGFyX21lZGlhX3dpcmUvMzgyNzI0NC1lYXJ0aHMtaW5uZXItY29yZS1tYXktaGF2ZS1wYXVzZWQtaXRzLXJvdGF0aW9uLWFuZC1yZXZlcnNlZC1uZXctc3R1ZHktc3VnZ2VzdHMvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-01-24T01:07:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Peter Martin, Jenny Leonard",
+      "title": "US Confronts China With Evidence of Companies Aiding Putin's War - Bloomberg",
+      "description": "The Biden administration has confronted China’s government with evidence that suggests some Chinese state-owned companies may be providing assistance for Russia’s war effort in Ukraine, as it tries to ascertain if Beijing is aware of those activities, accordi…",
+      "url": "https://www.bloomberg.com/news/articles/2023-01-24/us-confronts-china-with-evidence-of-companies-aiding-putin-s-war",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4diOF65ik7c/v0/1200x831.jpg",
+      "publishedAt": "2023-01-24T00:31:00Z",
+      "content": "The Biden administration has confronted China’s government with evidence that suggests some Chinese state-owned companies may be providing assistance for Russia’s war effort in Ukraine, as it tries t… [+414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jihye Lee",
+      "title": "Asia-Pacific markets rise as most of the region observes Lunar New Year holidays - CNBC",
+      "description": "Markets in the Asia-Pacific trade higher as most of the region observed Lunar New Year holidays.",
+      "url": "https://www.cnbc.com/2023/01/24/asia-pacific-after-new-year.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107182721-1674517631977-gettyimages-1246436806-20230122_sa_06510_022.jpeg?v=1674518746&w=1920&h=1080",
+      "publishedAt": "2023-01-24T00:25:00Z",
+      "content": "An earnings recession is imminent this year, according to Morgan Stanley equity strategist Michael Wilson. \r\n\"Our view has not changed as we expect the path of earnings in the US to disappoint both c… [+1033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "2023 Baseball Hall of Fame announcement: Date, time, TV channel, watch online, storylines, prediction - CBS Sports",
+      "description": "We'll learn the rest of the 2023 Baseball Hall of Fame class on Tuesday evening",
+      "url": "https://www.cbssports.com/mlb/news/2023-baseball-hall-of-fame-announcement-date-time-tv-channel-how-to-watch-online-storylines-prediction/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/22/ce0d696e-3cd4-4c72-9c28-8a9dd32df837/thumbnail/1200x675/cc5d30de3331af80296ba76c99b12199/scott-rolen-usatsi.png",
+      "publishedAt": "2023-01-23T23:39:00Z",
+      "content": "The results of the BBWAA vote for the 2022 Baseball Hall of Fame class will be revealed Tuesday night. Much of the intrigue in this vote will revolve around the chance Scott Rolen makes it, the gains… [+9326 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sandee LaMotte",
+      "title": "One type of physical activity protects the brain more than others, study finds - CNN",
+      "description": "Replacing sitting, sleeping or gentle movement with less than 10 minutes of moderate to vigorous physical activity can protect your brain, a new study says.",
+      "url": "https://www.cnn.com/2023/01/23/health/physical-activity-type-cognition-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230120132055-bike-riding-stock.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-23T23:30:00Z",
+      "content": "Editors Note: Seek advice from a health care provider before starting a workout program.\r\nWhat if you could look at all the things you do daily walking from room to room, preparing a presentation at … [+4098 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Rep. Katherine Clark's daughter out on bail after allegedly assaulting Boston Police officer - CBS Boston",
+      "description": "The daughter of Rep. Katherine Clark was released on $500 cash bail Monday and ordered to stay away from Boston Common after she was charged with assaulting a Boston Police officer.",
+      "url": "https://www.cbsnews.com/boston/news/katherine-clark-daughter-arrest-boston-police-riley-dowell/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/23/11bfeff3-173a-4871-87f2-642b02bd0252/thumbnail/1200x630/9b636524ff287c8d806a3b44d32f83b0/clark-daughter-arrest-frame-161.jpg",
+      "publishedAt": "2023-01-23T23:27:00Z",
+      "content": "BOSTON  - The daughter of Massachusetts Rep. Katherine Clark was released on $500 cash bail Monday and ordered to stay away from Boston Common after she was charged with assaulting a Boston Police of… [+2499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Erdogan tells Sweden not to expect Nato bid support - BBC",
+      "description": "The Turkish president's warning comes after protests in Sweden, including a Quran burning.",
+      "url": "https://www.bbc.com/news/world-europe-64380066",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13C66/production/_128389908_05637302e64d4962055a8312a4591e524adf554e.jpg",
+      "publishedAt": "2023-01-23T22:49:48Z",
+      "content": "Sweden should not expect Turkey to back its Nato membership bid, Turkish president Tayyip Erdogan said on Monday, days after a copy of the Quran was burned in a Stockholm protest.\r\nSweden applied to … [+2795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Ian Sample",
+      "title": "Exotic green comet not seen since stone age returns to skies above Earth - The Guardian",
+      "description": "Comet C/2022 E3, which orbits the sun every 50,000 years, will be closest to us next Wednesday and Thursday",
+      "url": "https://www.theguardian.com/science/2023/jan/23/exotic-green-comet-not-seen-since-stone-age-returns-to-skies-above-earth",
+      "urlToImage": "https://i.guim.co.uk/img/media/9730663c32600f834f712efbe85bc4ac6579712c/126_0_2718_1631/master/2718.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=919353564df408a7381dc0a48d808816",
+      "publishedAt": "2023-01-23T22:45:00Z",
+      "content": "An exotic green comet that has not passed Earth since the time of the Neanderthals has reappeared in the sky ready for its closest approach to the planet next week.\r\nDiscovered last March by astronom… [+1989 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China Slams US on Debt Limit and Accuses Washington of Sabotage - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3144d38f-9bc5-11ed-a32b-6f6979437678&url=L25ld3MvYXJ0aWNsZXMvMjAyMy0wMS0yMy9jaGluYS1zbGFtcy11cy1vbi1kZWJ0LWxpbWl0LWFuZC1hY2N1c2VzLXdhc2hpbmd0b24tb2Ytc2Fib3RhZ2U=",
+      "urlToImage": null,
+      "publishedAt": "2023-01-23T22:43:19Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Nakylah Carter",
+      "title": "Tyre Nichols 'a human pinata' for cops, attorney says after viewing bodycam footage - ABC News",
+      "description": "Family demanding justice after 5 Memphis officers fired",
+      "url": "https://abcnews.go.com/US/tyre-nichols-human-piata-cops-attorney-after-viewing/story?id=96612870",
+      "urlToImage": "https://s.abcnews.com/images/US/crump-nichols-2-abc-ps-220123_1674508181289_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-01-23T22:36:53Z",
+      "content": "The video footage of Tyre Nichols' interaction with five Memphis police officers is \"appalling,\" \"deplorable,\" \"heinous,\" \"violent\" and \"troublesome on every level,\" Ben Crump, attorney for the Nicho… [+3336 chars]"
+    }
+  ]
+}
