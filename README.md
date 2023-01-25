@@ -1,9 +1,9 @@
 # NewsApp
 <table>
 <tr>
-  <td><img src='/Screenshots/Screenshot1.png' width="180" height="320"/></td>
-  <td><img src='/Screenshots/Screenshot2.png' width="180" height="320"/></td>
-  <td><img src='/Screenshots/Screenshot3.png' width="180" height="320"/></td>
+  <td><img src='/Screenshot1.png' width="180" height="320"/></td>
+  <td><img src='/Screenshot2.png' width="180" height="320"/></td>
+  <td><img src='/Screenshot3.png' width="180" height="320"/></td>
 </tr>
   </table>
 
